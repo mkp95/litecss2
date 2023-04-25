@@ -32,7 +32,7 @@ You can directly implement `litecss` into your website by the rawgit cdn or down
 
 ```shell
 # Get the code
-$ git clone https://github.com/penglezos/litecss
+$ git clone https://github.com/mkp95/litecss2
 $ cd litecss
 # Show the minified version
 $ cat css/lite.min.css
@@ -43,7 +43,7 @@ $ cat css/lite.css
 #### CDN
 
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/penglezos/litecss/f850e1ea/css/lite.min.css">
+<link rel="stylesheet" href="https://mkp95.github.io/litecss2/css/lite.min.css">
 ```
 
 ## License
