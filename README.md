@@ -33,7 +33,7 @@ You can directly implement `litecss` into your website by the rawgit cdn or down
 ```shell
 # Get the code
 $ git clone https://github.com/mkp95/litecss2
-$ cd litecss
+$ cd litecss2
 # Show the minified version
 $ cat css/lite.min.css
 # Show the full version
